@@ -41,4 +41,4 @@ Las reglas de Norkus son simples, no te rindas. El juego consiste en esquivar lo
 
 ## Referencias
 
-Luis Canary. (2020). Plataforma 2D Unity. Recuperado de https://www.youtube.com/channel/UC_XaEmy0Rz49GkrhtpzqWlw
+Luis Canary. (2020). Plataforma 2D Unity. Recuperado de https://www.youtube.com/watch?v=-m7ZaHhkDAc&list=PLNEAWvYbJJ9kZpaIg2RfzAc_KZixBgchT
