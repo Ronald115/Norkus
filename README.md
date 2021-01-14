@@ -39,4 +39,6 @@ Las reglas de Norkus son simples, no te rindas. El juego consiste en esquivar lo
 - [x] El juego debe implementar mecánicas que generan desafío para el jugador, que lo vuelvan interesante más no imposible de ganar 
 
 
+## Referencias
 
+Luis Canary. (2020). Plataforma 2D Unity. Recuperado de https://www.youtube.com/channel/UC_XaEmy0Rz49GkrhtpzqWlw
